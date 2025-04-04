@@ -299,3 +299,4 @@ remootio_device.configuration.json
 venv-*/
 .venv-*/
 .run/
+/.vs
